@@ -5,12 +5,12 @@
 
   <!-- Badge Row -->
   <p>
-    <img src="https://img.shields.io/badge/gadgetSavvy-Lead%20Developer-0F172A?logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/ISO%20Support-✓-2563EB?logo=discogs&logoColor=white">
-    <img src="https://img.shields.io/badge/UEFI%20Ready-✓-4F46E5?logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Legacy%20BIOS-✓-1E40AF?logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Write%20Speed-Optimized-059669?logo=speedtest&logoColor=white">
+    <img src="https://img.shields.io/badge/gadgetSavvy-Lead%20Developer-0EA5E9?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3.x-0EA5E9?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/ISO%20Support-✓-0EA5E9?logo=discogs&logoColor=white">
+    <img src="https://img.shields.io/badge/UEFI%20Ready-✓-0EA5E9?logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Legacy%20BIOS-✓-0EA5E9?logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Write%20Speed-Optimized-0EA5E9?logo=speedtest&logoColor=white">
     <img src="https://img.shields.io/badge/Checksum-Verification-0EA5E9?logo=vercel&logoColor=white">
   </p>
 
