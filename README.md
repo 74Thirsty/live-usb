@@ -20,9 +20,6 @@ Absolutely — now that I’ve read both **your script** and the **GitHub reposi
 
 ---
 
-# Industrial Live USB TUI  
-A terminal user interface (TUI) tool for writing Linux and Windows installation ISOs to USB flash drives, with optional persistence and disk repair utilities. Designed for technicians, forensic analysts, and power users who need a safe, repeatable, interactive workflow for preparing bootable media.
-
 ## Overview  
 This project provides a guided, menu‑driven workflow using `whiptail` to:
 
